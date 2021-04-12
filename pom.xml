@@ -8,7 +8,9 @@
     <packaging>pom</packaging>
 
     <modules>
-
+        <module>
+        clear-java
+    </module>
     </modules>
 
     <developers>
